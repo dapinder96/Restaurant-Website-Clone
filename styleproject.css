@@ -1,0 +1,106 @@
+/* Testimonials Section */
+#testimonials {
+    padding: 5rem 0;
+    background: rgba(243, 243, 243);
+  }
+  
+  #testimonials h2 {
+    text-align: center;
+    font-size: 2.8rem;
+    font-weight: 400;
+    color: #555;
+  }
+  
+  .testimonial {
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  .customer img {
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+    margin: auto;
+  }
+  
+  .rating {
+    color: #ff9529;
+  }
+  
+  .testimonial p {
+    margin: 1rem 0;
+    color: #444;
+  }
+  
+  /* Contact Us Section */
+  #contact {
+    padding: 5rem 0;
+    background: rgb(226, 226, 226);
+  }
+  
+  #contact .container {
+    display: flex;
+    background: #fff;
+  }
+  
+  .contact-img {
+    width: 50%;
+  }
+  
+  .contact-img img {
+    display: block;
+    height: 400px;
+    width: 100%;
+    object-position: center;
+    object-fit: cover;
+  }
+  
+  .form {
+    padding: 1rem;
+    width: 50%;
+    margin: auto;
+  }
+  
+  .form input,
+  .form textarea {
+    display: block;
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid #ddd;
+    padding: 1rem 0;
+    box-shadow: none;
+    outline: none;
+    margin-bottom: 1rem;
+    color: #444;
+    font-weight: 500;
+  }
+  
+  .form textarea {
+    resize: none;
+  }
+  
+  .form h2 {
+    font-size: 2.7rem;
+    font-weight: 500;
+    color: #444;
+    margin-bottom: 1rem;
+    margin-top: -1.2rem;
+  }
+  
+  .form a {
+    font-size: 1.3rem;
+  }
+  
+  /* Footer Section */
+  #footer {
+    text-align: center;
+    font-size: 1.8rem;
+    padding: 2.6rem;
+    font-weight: 500;
+    color: #fff;
+    background: rgb(65, 65, 65);
+  }
+  
